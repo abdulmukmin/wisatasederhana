@@ -40,10 +40,12 @@ html, head, body  {
 
 #gambarkiri {
   float: left;
+  margin-right: 10px;
 }
 
 #gambarkanan {
   float:right;
+  margin-left: 10px;
 }
 
 #deskripsi {
